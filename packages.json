@@ -1,0 +1,17 @@
+{
+  "name": "@types/tree-kill",
+  "version": "0.0.1",
+  "description": "Typescript definitions for tree-kill",
+  "typings": "./index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/tree-kill-types.git"
+  },
+  "author": "Wen Chang",
+  "license": "MIT"
+}
