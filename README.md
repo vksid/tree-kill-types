@@ -1,1 +1,1 @@
-"# tree-kill-types" 
+# Typescript definitions for tree-kill 
